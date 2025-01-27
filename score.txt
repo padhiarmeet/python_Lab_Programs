@@ -1,0 +1,6 @@
+maths = 30
+pt = 20
+computer 
+computer = 50= 50
+social = 70
+english = 65
